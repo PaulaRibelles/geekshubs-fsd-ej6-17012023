@@ -1,0 +1,21 @@
+body{
+size: 900px;
+}
+button{
+    float: left;
+    color: rgb(95, 69, 4);
+    background-color: rgb(74, 206, 105);
+}
+table{
+    border: 10px;
+    color: rgb(72, 72, 72);
+}
+  h1{
+    color: rgb(9, 96, 10);
+  }
+  h2{
+    color: rgb(8, 149, 53);
+  }
+  h3{
+    color: rgb(117, 69, 11);
+  }
